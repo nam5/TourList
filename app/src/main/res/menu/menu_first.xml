@@ -6,7 +6,8 @@
         android:id="@+id/action_Add"
         android:orderInCategory="100"
         android:title="추가"
-        app:showAsAction="never" />
+        android:icon="@drawable/v5"
+        app:showAsAction="always" />
 
 
 </menu>
